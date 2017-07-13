@@ -24,6 +24,11 @@
             </div><br>
 
             <div class="input-group">
+              Confirm Password:
+              <input type="password" name="confpassword"><br>
+            </div><br>
+
+            <div class="input-group">
                 <button type="submit" name="register" class="btn">Register</button>
             </div><br>
             <p>
